@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "784493029771",
+    "project_id": "randomevstation",
+    "storage_bucket": "randomevstation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784493029771:android:c5ebbf055f82a9cdc1e78e",
+        "android_client_info": {
+          "package_name": "com.example.admin_evstation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_P9zBGbt2eJ5yVsquEQIpNnPKzOQEtvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784493029771:android:e274f5ab846d87c2c1e78e",
+        "android_client_info": {
+          "package_name": "com.example.main_evcharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_P9zBGbt2eJ5yVsquEQIpNnPKzOQEtvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784493029771:android:8803604023372decc1e78e",
+        "android_client_info": {
+          "package_name": "com.example.owner_ev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_P9zBGbt2eJ5yVsquEQIpNnPKzOQEtvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
